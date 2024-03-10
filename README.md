@@ -1,10 +1,33 @@
-# SELIES ASSESSMENT
+# Angular Project Name
 
-## [ NOTE: ]
-`If` [npm install](https://stackoverflow.com/questions/66020820/npm-when-to-use-force-and-legacy-peer-deps) `is not working use` [npm install --legacy-peer-deps](https://stackoverflow.com/questions/66020820/npm-when-to-use-force-and-legacy-peer-deps)
+This is a brief description of your Angular project. Include what the project does, its purpose, and any key features or functionalities it offers.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
+## Installation
 
-## Development server
+1. Clone the repository:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+```
+git clone https://github.com/Santosh-745/todo-angular-app
+```
+
+2. Navigate to the project directory:
+
+```
+cd angular-project-name
+```
+
+3. Install dependencies: (use --legacy-peer-deps if this doesn't works)
+
+```
+npm install
+```
+
+## Usage
+
+1. Start the development server:
+
+```
+npm run start
+```
+
+2. Open your browser and navigate to `http://localhost:4200/` to view the project.
