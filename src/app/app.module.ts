@@ -15,6 +15,7 @@ import { TodoListComponent } from './todo-list/todo-list.component';
 import { CreateTaskComponent } from './create-task/create-task.component';
 import { InProgressComponent } from './in-progress/in-progress.component';
 import { DoneComponent } from './done/done.component';
+import { NavbarComponent } from './navbar/navbar.component';
 
 @NgModule({
   imports: [
@@ -39,6 +40,7 @@ import { DoneComponent } from './done/done.component';
     CreateTaskComponent,
     InProgressComponent,
     DoneComponent,
+    NavbarComponent,
   ],
   entryComponents: [
   ],
